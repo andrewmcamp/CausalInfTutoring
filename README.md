@@ -13,13 +13,13 @@ Agendas below will be updated with links to material/recordings after each meeti
 #### Thr. November 3, 2022
 #### Mon. November 7, 2022
 #### Thr. November 10, 2022
-**No Meeting - Andrew is traveling to a conference**
+No Meeting - Andrew is traveling to a conference  
 
 #### Mon. November 14, 2022
 #### Thr. November 17, 2022
 #### Mon. November 21, 2022
 #### Thr. November 24, 2022
-**No Meeting - Thanksgiving Break**
+No Meeting - Thanksgiving Break  
 
 #### Mon. November 28, 2022
 #### Thr. December 1, 2022
