@@ -6,22 +6,22 @@ Agendas below will be updated with links to material/recordings after each meeti
 # Agendas
 #### M October 17, 2022
 
-#### Th October 20, 2022
-#### M October 24, 2022
-#### Th October 27, 2022
-#### M October 31, 2022
-#### Th November 3, 2022
-#### M November 7, 2022
-#### Th November 10, 2022
+#### October 20, 2022
+#### October 24, 2022
+#### October 27, 2022
+#### October 31, 2022
+#### November 3, 2022
+#### November 7, 2022
+#### November 10, 2022
 No Meeting - Andrew is traveling to a conference  
 
-#### M November 14, 2022
-#### Th November 17, 2022
-#### M November 21, 2022
-#### Th November 24, 2022
+#### November 14, 2022
+#### November 17, 2022
+#### November 21, 2022
+#### November 24, 2022
 No Meeting - Thanksgiving Break  
 
-#### M November 28, 2022
-#### Th December 1, 2022
-#### M December 5, 2022
-#### Th December 8, 2022
+#### November 28, 2022
+#### December 1, 2022
+#### December 5, 2022
+#### December 8, 2022
