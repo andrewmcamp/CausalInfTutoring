@@ -3,7 +3,7 @@
 Agendas below will be updated with links to material/recordings after each meeting.
 1:1 or small group tutoring can be requested on my bookings page.
 
-# Agendas w/ Links
+# Agendas
 #### M October 17, 2022
 
 #### Th October 20, 2022
