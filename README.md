@@ -5,6 +5,16 @@ Agendas below will be updated with links to material/recordings after each meeti
 
 # Agendas
 #### October 20, 2022
+- Conceptual overview of RDDs
+  - Continuity framework: we can model the relationship between the running variable and outcome using some polynomial function (e.g., pre- and post-test scores).
+  - Randomization framework: Close to the cutoff, observations are distributed as-good-as randomly due to measurement error or other stocastic process.
+- Coding example
+  - Replicating Cody Tuttle's [*Snapping Back: Food Stamp bans and Crimincal Recidivism*](https://www.aeaweb.org/articles?id=10.1257/pol.20170490) (2019). Abstract below.  
+    > I estimate the effect of access to food stamps on criminal recidivism. In 1996, a federal welfare reform imposed a lifetime ban from food stamps on convicted drug felons. Florida modified this ban, restricting it to drug traffickers who commit their offense on or after August 23, 1996. I exploit this sharp cutoff in a regression discontinuity design and find that the ban increases recidivism among drug traffickers. The increase is driven by financially motivated crimes, suggesting that the cut in benefits causes ex-convicts to return to crime to make up for the lost transfer income.
+  - Replication data
+  - Do file with progress so far
+- [Video recording of session.](https://video.uark.edu/media/Causal%20Inference%20Whole%20Group%20Tutoring/1_gk4lfc7j)
+  
 #### October 24, 2022
 #### October 27, 2022
 #### October 31, 2022
