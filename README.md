@@ -3,6 +3,17 @@
 Agendas below will be updated with links to material/recordings after each meeting.
 1:1 or small group tutoring can be requested [on my bookings page](https://outlook.office.com/bookwithme/user/a77fe9a57c1b42a6910c3a03e4bd11e7@uark.edu?anonymous&ep=plink).
 
+# Zoom Link
+**The Zoom link below will be used for all whole-group sessions. Login with an UArk account is required.**
+  Andrew Camp is inviting you to a scheduled Zoom meeting.
+
+  Topic: Causal Inference Whole Group Tutoring
+  Time: This is a recurring meeting Meet anytime
+
+  Join Zoom Meeting
+  https://uark.zoom.us/j/85187777029?pwd=NitiZ1V1U3RudHdJZU1QZXI4b3RrUT09
+
+
 # Agendas
 #### October 20, 2022
 - Conceptual overview of RDDs
