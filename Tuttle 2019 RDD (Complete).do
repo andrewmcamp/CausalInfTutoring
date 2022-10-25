@@ -45,7 +45,7 @@ if `install' == 1 {
 	
 	
 // ----------------------------------------------------- (1) Loading data and initial exploration
-use "https://github.com/andrewmcamp/MSER/raw/main/data/florida_offenders.dta", clear
+use "https://github.com/andrewmcamp/MSER/raw/main/old/data/florida_offenders.dta", clear
 
 * First thing to do is get a sense of our variables
 summarize _all, sep(0)
