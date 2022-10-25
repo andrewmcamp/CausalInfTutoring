@@ -27,6 +27,11 @@ Agendas below will be updated with links to material/recordings after each meeti
 - [Video recording of session.](https://video.uark.edu/media/Causal%20Inference%20Whole%20Group%20Tutoring/1_gk4lfc7j)
   
 #### October 24, 2022
+- Discussion of individual projects.
+- Complete replication code for Cody Tuttle's paper is [here](/Tuttle 2019 RDD (Complete).do).
+- Neat 2-page guide to RDD from Sarah Miller is [here](/Miller_Guide_To_RDD.pdf).
+- No recording as most of the conversation was about individual projects.
+
 #### October 27, 2022
 #### October 31, 2022
 #### November 3, 2022
