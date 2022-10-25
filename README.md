@@ -28,7 +28,7 @@ Agendas below will be updated with links to material/recordings after each meeti
   
 #### October 24, 2022
 - Discussion of individual projects.
-- Complete replication code for Cody Tuttle's paper is [here](/Tuttle 2019 RDD (Complete).do).
+- Complete replication code for Cody Tuttle's paper is [here](/Tuttle 2019 RDD Complete.do).
 - Neat 2-page guide to RDD from Sarah Miller is [here](/Miller_Guide_To_RDD.pdf).
 - No recording as most of the conversation was about individual projects.
 
